@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.89721d7f.css",
-    "main.js": "/static/js/main.489eaa8d.js",
-    "static/js/787.7bc8c416.chunk.js": "/static/js/787.7bc8c416.chunk.js",
-    "static/media/ds.png": "/static/media/ds.791fb2b2c4acda566858.png",
-    "static/media/Gujarat_Titans_logo.png": "/static/media/Gujarat_Titans_logo.5cefb1dbe11b814b15eb.png",
-    "index.html": "/index.html",
-    "main.89721d7f.css.map": "/static/css/main.89721d7f.css.map",
-    "main.489eaa8d.js.map": "/static/js/main.489eaa8d.js.map",
-    "787.7bc8c416.chunk.js.map": "/static/js/787.7bc8c416.chunk.js.map"
+    "main.css": "/firstreact/static/css/main.89721d7f.css",
+    "main.js": "/firstreact/static/js/main.b3a9d09a.js",
+    "static/js/787.7bc8c416.chunk.js": "/firstreact/static/js/787.7bc8c416.chunk.js",
+    "static/media/ds.png": "/firstreact/static/media/ds.791fb2b2c4acda566858.png",
+    "static/media/Gujarat_Titans_logo.png": "/firstreact/static/media/Gujarat_Titans_logo.5cefb1dbe11b814b15eb.png",
+    "index.html": "/firstreact/index.html",
+    "main.89721d7f.css.map": "/firstreact/static/css/main.89721d7f.css.map",
+    "main.b3a9d09a.js.map": "/firstreact/static/js/main.b3a9d09a.js.map",
+    "787.7bc8c416.chunk.js.map": "/firstreact/static/js/787.7bc8c416.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89721d7f.css",
-    "static/js/main.489eaa8d.js"
+    "static/js/main.b3a9d09a.js"
   ]
 }
